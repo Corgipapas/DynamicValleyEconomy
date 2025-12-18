@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6osgCiKmGA=",
+  "success": true,
+  "projectFilePath": "/Users/Corgidad/Desktop/DynamicEconomy/DynamicEconomy.csproj",
+  "expectedPackageFiles": [
+    "/Users/Corgidad/.nuget/packages/lib.harmony/2.4.2/lib.harmony.2.4.2.nupkg.sha512",
+    "/Users/Corgidad/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

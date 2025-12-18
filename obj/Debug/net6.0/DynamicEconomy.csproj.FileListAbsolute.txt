@@ -1,0 +1,8 @@
+/Users/Corgidad/Desktop/DynamicEconomy/bin/Debug/net6.0/DynamicEconomy.deps.json
+/Users/Corgidad/Desktop/DynamicEconomy/bin/Debug/net6.0/DynamicEconomy.dll
+/Users/Corgidad/Desktop/DynamicEconomy/obj/Debug/net6.0/DynamicEconomy.csproj.AssemblyReference.cache
+/Users/Corgidad/Desktop/DynamicEconomy/obj/Debug/net6.0/DynamicEconomy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Corgidad/Desktop/DynamicEconomy/obj/Debug/net6.0/DynamicEconomy.AssemblyInfoInputs.cache
+/Users/Corgidad/Desktop/DynamicEconomy/obj/Debug/net6.0/DynamicEconomy.AssemblyInfo.cs
+/Users/Corgidad/Desktop/DynamicEconomy/obj/Debug/net6.0/DynamicEconomy.csproj.CoreCompileInputs.cache
+/Users/Corgidad/Desktop/DynamicEconomy/obj/Debug/net6.0/DynamicEconomy.dll

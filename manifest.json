@@ -1,0 +1,16 @@
+{
+  "Name": "Dynamic Valley Economy",
+  "Author": "Corgipapas",
+  "Version": "1.0.0",
+  "Description": "Adds progressive wealth taxes, building taxes, and market flooding to Stardew Valley.",
+  "UniqueID": "Corgipapas.DynamicEconomy",
+  "EntryDll": "DynamicEconomy.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": true
+    }
+  ]
+}
